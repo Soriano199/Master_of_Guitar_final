@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvAbout" type="id" />
+    <item name="tvrules" type="id" />
+    <item name="rules_menu" type="id" />
+</resources>
